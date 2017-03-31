@@ -18,7 +18,6 @@ public class Main {
 		 * 나의 입력 할인 행사를 고려 고객의 총지불비용 출력
 		 * */
 		
-		
 		int milkCount, cokeCount, waterCount, total;
 		
 		boolean age;
