@@ -49,7 +49,8 @@ public class Main {
 		total = total(milkCount, cokeCount, waterCount, age); 
 		
 		System.out.print(" °í°´´ÔÀÇ ±¸¸ÅÀÇ ÃÑ ÁöºÒ ±Ý¾× : " + total);
-	
+		
+		scan.close();
 	}
 
 	private static int total(int mc, int cc, int wc, boolean age) {
