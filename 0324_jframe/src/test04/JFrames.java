@@ -2,7 +2,7 @@ package test04;
 
 import javax.swing.JFrame;
 
-public class JFrame {
+public class JFrames {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,7 +10,7 @@ public class JFrame {
 		
 		j.setSize(400, 500);
 		
-		j.serVisible(true);
+		j.setVisible(true);
 	}
 
 }
